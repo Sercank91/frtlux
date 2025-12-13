@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "why": "Neden FRTLUX?",
+    "yenisehir": "İstanbul Yenişehir",
+    "timeline": "Arnavutköy Gelişimi",
+    "news": "Haberler & Güncellemeler",
+    "seminars": "Seminerler & Etkinlikler",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title1": "ISTANBUL'UN",
+    "title2": "YENI YATIRIM VE YAŞAM MERKEZI",
+    "subtitle": "FRTLUX, Alman ortağın güvenliğini İstanbul'daki yerel uzmanlıkla birleştirir. Firat Emlak & Premlux ile birlikte, ilk danışmadan yasal olarak uygun arsa alımına kadar size eşlik ediyoruz.",
+    "cta1": "Danışma Randevusu Alın",
+    "cta2": "İstanbul Yenişehir'i Keşfedin"
+  },
+  "about": {
+    "title": "FRTLUX – by Firat Emlak & Premlux",
+    "premlux": "Premlux: Almanya'da 30+ yıllık başarılı şirket geçmişi",
+    "firat": "Firat Emlak: İstanbul-Arnavutköy'de onlarca yıllık deneyim",
+    "combined": "Birlikte: Alman güvenliği ve Türk konum uzmanlığının birleşimi",
+    "security": "Alman Güvenliği",
+    "expertise": "Türk Konum Uzmanlığı",
+    "showroom": "Almanya'da Showroom",
+    "transparency": "Şeffaf, Güvenli Süreç"
+  },
+  "features": {
+    "title": "Neden FRTLUX?",
+    "experience": {
+      "title": "30+ Yıl Deneyim",
+      "description": "Premlux, Almanya'da otuz yılı aşkın uzmanlık getiriyor – yatırımlar için güvenilir ortağınız."
+    },
+    "location": {
+      "title": "Konum Uzmanları Arnavutköy",
+      "description": "Firat Emlak, Arnavutköy'ün her metrekaresini biliyor ve sizi yerinde yerel bilgi ile destekliyor."
+    },
+    "presence": {
+      "title": "Almanya'da Showroom",
+      "description": "Kişisel irtibat noktası ve showroom – doğrudan ulaşabileceğiniz bir ortakla yatırım yapın."
+    },
+    "process": {
+      "title": "Şeffaf Süreç",
+      "description": "İlk danışmadan arsa alımına kadar: Her şey yasal olarak güvenli, anlaşılır ve izlenebilir."
+    }
+  },
+  "yenisehir": {
+    "title": "Odak: İstanbul Yenişehir",
+    "intro": "Yenişehir, İstanbul'un kuzeyindeki yeni planlı şehir – yeni havalimanı ile planlanan İstanbul Kanalı arasında stratejik konumda.",
+    "airport": "Yeni İstanbul Havalimanı",
+    "canal": "İstanbul Kanalı Planlandı",
+    "infrastructure": "Modern Altyapı",
+    "planning": "Düzenli Şehir Planlaması",
+    "seismic": "Depreme Dayanıklı Zemin",
+    "cta": "İstanbul Yenişehir Detaylı"
+  },
+  "timeline": {
+    "title": "Arnavutköy Gelişimi",
+    "subtitle": "Kuzey İstanbul yeniden inşa ediliyor – eşsiz bir yatırım fırsatı",
+    "cta": "Zaman Çizelgesini Görüntüle"
+  },
+  "news": {
+    "title": "Haberler & Konum Güncellemeleri",
+    "subtitle": "Yenişehir ve Arnavutköy'deki güncel gelişmelerden haberdar olun",
+    "cta": "Tüm Haberler"
+  },
+  "contact": {
+    "title": "İletişim & Almanya Lokasyonu",
+    "subtitle": "Showroom'umuzu ziyaret edin veya kişisel bir danışma randevusu alın",
+    "cta": "Danışma Randevusu Alın"
+  },
+  "footer": {
+    "about": "FRTLUX – by Firat Emlak & Premlux",
+    "description": "Almanya–İstanbul Yatırım Danışmanlığı",
+    "quicklinks": "Hızlı Gezinme",
+    "contactInfo": "İletişim",
+    "address": "Mustermann Straße 123, 12345 Stadt, Almanya",
+    "phone": "Tel: +49 123 456789",
+    "whatsapp": "WhatsApp: +49 123 456789",
+    "email": "info@frtlux.de",
+    "copyright": "© 2024 FRTLUX. Tüm hakları saklıdır.",
+    "imprint": "Künye",
+    "privacy": "Gizlilik"
+  },
+  "common": {
+    "learnMore": "Daha Fazla Bilgi",
+    "readMore": "Devamını Oku",
+    "backToHome": "Ana Sayfaya Dön",
+    "loading": "Yükleniyor..."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "why": "Warum FRTLUX?",
+    "yenisehir": "Istanbul Yenişehir",
+    "timeline": "Entwicklung Arnavutköy",
+    "news": "News & Updates",
+    "seminars": "Seminare & Events",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title1": "ISTANBULS",
+    "title2": "NEUES INVESTITIONS- UND LEBENSZENTRUM",
+    "subtitle": "FRTLUX verbindet die Sicherheit eines deutschen Partners mit der lokalen Expertise in Istanbul. Gemeinsam mit Firat Emlak & Premlux begleiten wir Sie von der ersten Beratung bis zum rechtskonformen Grundstückskauf in Istanbul Yenişehir.",
+    "cta1": "Beratungstermin vereinbaren",
+    "cta2": "Istanbul Yenişehir entdecken"
+  },
+  "about": {
+    "title": "FRTLUX – by Firat Emlak & Premlux",
+    "premlux": "Premlux: 30+ Jahre erfolgreiche Firmengeschichte in Deutschland",
+    "firat": "Firat Emlak: Jahrzehntelange Erfahrung in Istanbul-Arnavutköy",
+    "combined": "Gemeinsam: Eine Verbindung aus deutscher Sicherheit & türkischer Standortexpertise",
+    "security": "Deutsche Sicherheit",
+    "expertise": "Türkische Standortexpertise",
+    "showroom": "Showroom in Deutschland",
+    "transparency": "Transparenter, sicherer Prozess"
+  },
+  "features": {
+    "title": "Warum FRTLUX?",
+    "experience": {
+      "title": "30+ Jahre Erfahrung",
+      "description": "Premlux bringt über drei Jahrzehnte Expertise in Deutschland mit – Ihr verlässlicher Partner für Investitionen."
+    },
+    "location": {
+      "title": "Standortexperten Arnavutköy",
+      "description": "Firat Emlak kennt jeden Quadratmeter in Arnavutköy und begleitet Sie vor Ort mit lokalem Know-how."
+    },
+    "presence": {
+      "title": "Showroom in Deutschland",
+      "description": "Persönlicher Ansprechpartner und Showroom – Investieren Sie mit einem Partner, den Sie direkt erreichen."
+    },
+    "process": {
+      "title": "Transparenter Prozess",
+      "description": "Von der ersten Beratung bis zum Grundstückskauf: Alles rechtssicher, verständlich und nachvollziehbar."
+    }
+  },
+  "yenisehir": {
+    "title": "Fokus: Istanbul Yenişehir",
+    "intro": "Yenişehir ist die neue geplante Stadt im Norden Istanbuls – strategisch gelegen zwischen dem neuen Flughafen und dem geplanten Kanal Istanbul.",
+    "airport": "Neuer Flughafen Istanbul",
+    "canal": "Kanal Istanbul geplant",
+    "infrastructure": "Moderne Infrastruktur",
+    "planning": "Geordnete Stadtplanung",
+    "seismic": "Erdbeben-sichere Bodenlagen",
+    "cta": "Istanbul Yenişehir im Detail"
+  },
+  "timeline": {
+    "title": "Entwicklung Arnavutköy",
+    "subtitle": "Nord-Istanbul wird neu aufgebaut – eine einzigartige Investmentchance",
+    "cta": "Timeline ansehen"
+  },
+  "news": {
+    "title": "News & Standort-Updates",
+    "subtitle": "Bleiben Sie informiert über aktuelle Entwicklungen in Yenişehir und Arnavutköy",
+    "cta": "Alle News"
+  },
+  "contact": {
+    "title": "Kontakt & Standort Deutschland",
+    "subtitle": "Besuchen Sie unseren Showroom oder vereinbaren Sie einen persönlichen Beratungstermin",
+    "cta": "Beratungstermin vereinbaren"
+  },
+  "footer": {
+    "about": "FRTLUX – by Firat Emlak & Premlux",
+    "description": "Deutschland–Istanbul Investment Beratung",
+    "quicklinks": "Schnellnavigation",
+    "contactInfo": "Kontakt",
+    "address": "Mustermann Straße 123, 12345 Stadt, Deutschland",
+    "phone": "Tel: +49 123 456789",
+    "whatsapp": "WhatsApp: +49 123 456789",
+    "email": "info@frtlux.de",
+    "copyright": "© 2024 FRTLUX. Alle Rechte vorbehalten.",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "readMore": "Weiterlesen",
+    "backToHome": "Zurück zur Startseite",
+    "loading": "Wird geladen..."
+  }
+}
