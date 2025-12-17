@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
->>>>>>> 6611634f2c0f069a6dc0aaf413a56b221fbf0337
 # dependencies
 /node_modules
 /.pnp
@@ -29,10 +26,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
-<<<<<<< HEAD
-=======
 .env
->>>>>>> 6611634f2c0f069a6dc0aaf413a56b221fbf0337
 
 # vercel
 .vercel
